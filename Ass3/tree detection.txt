@@ -1,0 +1,2 @@
+A tree is a connected graph without any cycles, with all the nodes connected. 
+It can be detected using BFS or DFS in a running time of O(V + E), where V is the number of vertices and E is the number of edges.
